@@ -1,4 +1,4 @@
-# superevent
+# js-event
 
 a simple func tool
 
