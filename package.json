@@ -11,7 +11,13 @@
     "type": "git",
     "url": "git+https://github.com/richardwei195/simple-event.git"
   },
-  "author": "",
+  "keywords": [
+    "javascript",
+    "web",
+    "server",
+    "nodejs"
+  ],
+  "author": "richardwei1995@gmail.com",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/richardwei195/simple-event/issues"
