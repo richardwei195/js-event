@@ -1,7 +1,7 @@
 "use strict";
 var _this = this;
 exports.__esModule = true;
-exports["default"] = (function () {
+exports.Event = function () {
     _this.on = function (eventName, cb) {
         if (!_this.handles) {
             _this.handles = {};
@@ -20,4 +20,4 @@ exports["default"] = (function () {
         }
     };
     return _this;
-});
+};

@@ -1,4 +1,4 @@
-export default () => {
+export const Event = () => {
   this.on = (eventName: string, cb: () => {}) => {
       if(!this.handles){
           this.handles={};

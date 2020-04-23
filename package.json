@@ -4,7 +4,8 @@
   "description": "a simple event func",
   "main": "index.js",
   "scripts": {
-    "build": "tsc index.ts"
+    "build": "tsc index.ts",
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -17,6 +18,7 @@
   },
   "homepage": "https://github.com/richardwei195/simple-event#readme",
   "devDependencies": {
+    "jest": "^25.4.0",
     "typescript": "^3.8.3"
   }
 }

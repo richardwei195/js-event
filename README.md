@@ -3,7 +3,7 @@
 a simple func tool
 
 ```js
-import Event from 'simple-event'
+import { Event } from 'simple-event'
 
 const event = new Event()
 
