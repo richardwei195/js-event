@@ -1,5 +1,5 @@
 {
-  "name": "simple-event",
+  "name": "superevent",
   "version": "1.0.2",
   "description": "a simple event func",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/richardwei195/simple-event.git"
+    "url": "git+https://github.com/richardwei195/superevent.git"
   },
   "keywords": [
     "javascript",
@@ -20,9 +20,9 @@
   "author": "richardwei1995@gmail.com",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/richardwei195/simple-event/issues"
+    "url": "https://github.com/richardwei195/superevent/issues"
   },
-  "homepage": "https://github.com/richardwei195/simple-event#readme",
+  "homepage": "https://github.com/richardwei195/superevent#readme",
   "devDependencies": {
     "jest": "^25.4.0",
     "typescript": "^3.8.3"

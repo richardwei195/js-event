@@ -1,4 +1,4 @@
-# simple event
+# superevent
 
 a simple func tool
 
